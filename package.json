@@ -45,6 +45,7 @@
     "tailwindcss": "^2.2.19"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "latest": "^0.2.0",
     "n": "^8.0.1",
     "stable": "^0.1.8"
